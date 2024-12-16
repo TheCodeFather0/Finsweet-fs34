@@ -1,0 +1,11 @@
+/* 1400 - 1200 - 992 - 768 - 576 */
+
+@media (max-width: 768px) {
+  header .fa-bars {
+    display: block;
+  }
+
+  nav {
+    display: none;
+  }
+}
