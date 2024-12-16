@@ -18,7 +18,12 @@ body {
 }
 
 header {
+  top: 0;
   padding: 20px 0;
+  position: relative;
+  position: sticky;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
 }
 
 .row {
